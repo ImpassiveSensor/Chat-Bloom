@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "802217206869",
+    "firebase_url": "https://chatbloomapp.firebaseio.com",
+    "project_id": "chatbloomapp",
+    "storage_bucket": "chatbloomapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802217206869:android:f631572bae0fe02a",
+        "android_client_info": {
+          "package_name": "com.example.asus.chatbloom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802217206869-9aklte0t3f8qtbm6jfjs7241gaftjlr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.chatbloom",
+            "certificate_hash": "c3347a5d24265d23556b2a53a9c23054ad26eb83"
+          }
+        },
+        {
+          "client_id": "802217206869-bqburcpoar38vm7af2adjvvu4phfds0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAocjybLb8o8JEW1UXAZhympHOQcGZ99UI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802217206869-bqburcpoar38vm7af2adjvvu4phfds0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
